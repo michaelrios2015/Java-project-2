@@ -19,11 +19,11 @@ Read the following data from a file and use it  to test your program:
 NAME       ACCOUNT	        PHONE	        SSN		 BALANCE	    TYPE<br>
 
 Sam 	   78192222		555-0498	123-45-6789       4500               B<br>
-Carla	   74329832		555-9812	233-98-3831	    230                 C<br>
-Woody	   72872911		555-9281	823-23-0911	    5700               S<br>
-Diane	   63672822		555-9232	212-11-0091	    2300               S<br>
-Norm	   27873773		555-2932	918-22-0911	    1400               C<br>
-Cliff	   38737737		555-9171	811-12-9811	    6700               S<br>
-Tom        72932331                 555-9283         235-09-9282       7800               C<br>
+Carla	   74329832		555-9812	233-98-3831	  230                C<br>
+Woody	   72872911		555-9281	823-23-0911	  5700               S<br>
+Diane	   63672822		555-9232	212-11-0091	  2300               S<br>
+Norm	   27873773		555-2932	918-22-0911	  1400               C<br>
+Cliff	   38737737		555-9171	811-12-9811	  6700               S<br>
+Tom        72932331             555-9283        235-09-9282       7800               C<br>
 </pre>
 Submit your program along with the output produced
