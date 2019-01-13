@@ -1,6 +1,6 @@
-# Java-project-2
+# Bank-Accounts-Project-2
 
-		by Prof. H. Zhou		Due:  2/24//2014
+Done for **COSC 600 at Towson University**
 
 You are to create a set of classes to implement a banking mode in Java, and are expected to employ the techniques of inheritance and polymorphism.
 
